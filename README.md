@@ -8,12 +8,12 @@
 <div>
     <h1 align="center">The final look of the website</h1>
     <div>
-        <img src="Sign In & Sign Up _ sL Code Hub - 1.png" width="499">
-        <img src="Sign In & Sign Up _ sL Code Hub - 2.png" width="499">
-        <img src="Sign In & Sign Up _ sL Code Hub - 3.png" width="499">
-        <img src="Sign In & Sign Up _ sL Code Hub - 4.png" width="499">
-        <img src="Sign In & Sign Up _ sL Code Hub - 5.png" width="499">
-        <img src="Sign In & Sign Up _ sL Code Hub - 6.png" width="499">
+        <img src="Sign In & Sign Up _ sL Code Hub - 1.png">
+        <img src="Sign In & Sign Up _ sL Code Hub - 2.png">
+        <img src="Sign In & Sign Up _ sL Code Hub - 3.png">
+        <img src="Sign In & Sign Up _ sL Code Hub - 4.png">
+        <img src="Sign In & Sign Up _ sL Code Hub - 5.png">
+        <img src="Sign In & Sign Up _ sL Code Hub - 6.png">
     </div>
 </div>
 <br /><br />

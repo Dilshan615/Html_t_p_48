@@ -1,5 +1,5 @@
 <header>
-    <h1 align="center">sL Code Hob</h1>
+    <h1 align="center">sL Code Hub</h1>
     <h2>Project Name -- Html_TikTok_Project_48</h2>
 </header>
 <br /><br />
@@ -8,12 +8,12 @@
 <div>
     <h1 align="center">The final look of the website</h1>
     <div>
-        <img src="Sign In & Sign Up _ sL Code Hub - 1.png" width="500">
-        <img src="Sign In & Sign Up _ sL Code Hub - 2.png" width="500">
-        <img src="Sign In & Sign Up _ sL Code Hub - 3.png" width="500">
-        <img src="Sign In & Sign Up _ sL Code Hub - 4.png" width="500">
-        <img src="Sign In & Sign Up _ sL Code Hub - 5.png" width="500">
-        <img src="Sign In & Sign Up _ sL Code Hub - 6.png" width="500">
+        <img src="Sign In & Sign Up _ sL Code Hub - 1.png" width="499">
+        <img src="Sign In & Sign Up _ sL Code Hub - 2.png" width="499">
+        <img src="Sign In & Sign Up _ sL Code Hub - 3.png" width="499">
+        <img src="Sign In & Sign Up _ sL Code Hub - 4.png" width="499">
+        <img src="Sign In & Sign Up _ sL Code Hub - 5.png" width="499">
+        <img src="Sign In & Sign Up _ sL Code Hub - 6.png" width="499">
     </div>
 </div>
 <br /><br />
